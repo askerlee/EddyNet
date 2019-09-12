@@ -1,1 +1,1 @@
-# CodecNet
+# EddyNet
